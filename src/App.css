@@ -1,8 +1,7 @@
-
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-image: url('https://img.freepik.com/fotos-premium/fundo-colorido-abstrato_78899-3842.jpg?w=740'); /* Substitua 'background-image.jpg' pelo caminho da sua imagem de fundo */
+  background-image: url('https://img.freepik.com/fotos-premium/fundo-colorido-abstrato_78899-3842.jpg?w=740');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -16,10 +15,10 @@ body {
 }
 
 .container {
-  background-color: rgba(255, 255, 255, 0.9); 
-  border-radius: 10px; 
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
   padding: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 h1 {

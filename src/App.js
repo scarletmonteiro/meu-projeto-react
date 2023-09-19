@@ -28,7 +28,7 @@ function App() {
         value={taskText}
         onChange={(e) => setTaskText(e.target.value)}
       />
-      <button onClick={addTask}>Add</button>
+      <button onClick={addTask}>Adicione</button>
       <TaskList tasks={tasks} deleteTask={deleteTask} />
     </div>
   );
